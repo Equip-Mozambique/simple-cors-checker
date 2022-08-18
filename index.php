@@ -11,7 +11,7 @@
 <body>
 <header></header>
 
-<center> <h1> VERIFICADOR DE CORS </h1> </center>
+<center> <h1 style="color: red"> VERIFICADOR DE CORS </h1> </center>
 <a href="https://github.com/Edsonjorgef1/simple-cors-checker" target="_blank"><img style="height:100px; width:100px; position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png" alt="Fork me on GitHub"></a>
 <p></p>
 <form id="idForm" method="post">
